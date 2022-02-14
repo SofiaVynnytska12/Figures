@@ -1,0 +1,207 @@
+Trianglr: a = 1.000000 , b = 1.000000 , c = 1.000000 , area = 0.433013 , perimeter = 3.000000
+Trianglr: a = 2.000000 , b = 4.000000 , c = 5.000000 , area = 3.799671 , perimeter = 11.000000
+Trianglr: a = 1.000000 , b = 1.000000 , c = 1.000000 , area = 0.433013 , perimeter = 3.000000
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.831853 , area: 314.159265
+Trianglr: a = 1.000000 , b = 1.000000 , c = 1.000000 , area = 0.433013 , perimeter = 3.000000
+Trianglr: a = 2.000000 , b = 4.000000 , c = 5.000000 , area = 3.799671 , perimeter = 11.000000
+Trianglr: a = 1.000000 , b = 1.000000 , c = 1.000000 , area = 0.433013 , perimeter = 3.000000
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 10 , perimeter = 40 , area = 100
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 10 , perimeter = 40 , area = 100
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 6 , perimeter = 24 , area = 36
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 6 , perimeter = 24 , area = 36
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 6 , perimeter = 24 , area = 36
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 6 , perimeter = 24 , area = 36
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 6 , perimeter = 24 , area = 36
+Circle: radius: 10 , length: 62.8319 , area: 314.159
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Triangle: a = 2 , b = 4 , c = 5 , perimeter = 11 , area = 3.79967
+Triangle: a = 1 , b = 1 , c = 1 , perimeter = 3 , area = 0.433013
+Rectangle: a = 12 , b = 6 , perimeter = 36 , area = 72
+Square: a = 6 , perimeter = 24 , area = 36
+Circle: radius: 10 , length: 62.8319 , area: 314.159

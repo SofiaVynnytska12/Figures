@@ -1,13 +1,25 @@
 #include "Circle.h"
 #include <corecrt_math_defines.h>
+#include <sstream>
+#include <fstream>
+#include "ShapeController.h"
+using namespace std;
+
 Circle::Circle()
 {
 	radius = 10;
 }
 
-Circle::Circle(int)
+Circle::Circle(double)
 {
-	this->radius = radius;
+	if (radius > 0)
+	{
+		this->radius = radius;
+	}
+	else
+	{
+		throw invalid_argument("illegal sides to create a triangle");
+	}
 }
 
 Circle::Circle(const Circle& cir)
@@ -25,16 +37,41 @@ double Circle::perimeter()
 	return 2*M_PI*radius;
 }
 
-void Circle::input(istream&)
+Circle* Circle::input()
 {
+	ifstream in;
+	string url = "C:\\Users\\HP\\source\\repos\\Figures\\CircleDataInput.txt";
+	in.open(url);
+	if (!in) {
+		cout << "Unable to open file";
+		exit(1);
+	}
+	string x;
+	int num = 0;
+	Circle* circles = new Circle[getSizeOfArr(url)];
+	while (getline(in, x)) {
+		double r;
+		istringstream rStream(x);
+		rStream >> r;
+		circles[num++].setRadius(r);
+	}
+	in.close();
+	return circles;
 }
 
 void Circle::output()
 {
-	
+	writeInFile(this->toString());
 }
 
-void Circle::setRadius(int radius)
+string Circle::toString()
+{
+	stringstream ss;
+	ss << (*this);
+	return ss.str();
+}
+
+void Circle::setRadius(double radius)
 {
 	this->radius = radius;
 }

@@ -9,5 +9,8 @@ public:
 	Square(const Square&);
 	Square(double a);
 	friend ostream& operator<<(ostream& out, Square& sq);
+	virtual string toString();
+	virtual void output();
+	virtual Square* input();
 };
 

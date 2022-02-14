@@ -3,23 +3,24 @@
 class Triangle : public Shape
 {
 private:
-	int a;
-	int b;
-	int c;
+	double a;
+	double b;
+	double c;
 public:
 	Triangle();
-	Triangle(int, int, int);
+	Triangle(double, double, double);
 	Triangle(const Triangle&);
 	virtual double area();
 	virtual double perimeter();
-	virtual void input(istream&);
+	virtual Triangle* input();
 	virtual void output();
-	void setA(int);
-	void setB(int);
-	void setC(int);
-	int getB();
-	int getA();
-	int getC();
+	virtual string toString();
+	void setA(double);
+	void setB(double);
+	void setC(double);
+	double getB();
+	double getA();
+	double getC();
 	friend ostream& operator<<(ostream& out, Triangle& tr);
 };
 

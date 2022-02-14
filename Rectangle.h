@@ -11,8 +11,9 @@ public:
 	Rectangle(double, double);
 	virtual double area();
 	virtual double perimeter();
-	virtual void input(istream&);
+	virtual Rectangle* input();
 	virtual void output();
+	virtual string toString();
 	double getA();
 	double getB();
 	void setA(double);

@@ -1,5 +1,8 @@
 #include "Triangle.h"
-#include <stdexcept>
+#include "ShapeController.h"
+#include <fstream>
+#include <sstream>
+using namespace std;
 
 Triangle::Triangle()
 {
@@ -8,7 +11,7 @@ Triangle::Triangle()
 	c = 1;
 }
 
-Triangle::Triangle(int a, int b, int c)
+Triangle::Triangle(double a, double b, double c)
 {
 	if (a > 0 && b > 0 && c > 0 && a + b > c && a + c > b && c + b > a)
 	{
@@ -18,7 +21,7 @@ Triangle::Triangle(int a, int b, int c)
 	}
 	else
 	{
-		throw std::invalid_argument("illegal sides to create a triangle");
+		throw invalid_argument("illegal sides to create a triangle");
 	}
 }
 
@@ -40,36 +43,70 @@ double Triangle::perimeter()
 	return a+b+c;
 }
 
-void Triangle::input(istream& in)
+Triangle* Triangle::input()
 {
-	in >> a >> b >> c;
+	ifstream in;
+	string url = "C:\\Users\\HP\\source\\repos\\Figures\\TriangleDataInput.txt";
+	in.open(url);
+	if (!in) {
+		cout << "Unable to open file";
+		exit(1);
+	}
+	string x;
+	int num = 0;
+	Triangle* triangles = new Triangle[getSizeOfArr(url)];
+	while (getline(in, x)) { 
+		double a, b, c;
+		string* arrOfWords = new string[3];
+		stringstream sstream(x);
+		string word;
+		int i = 0;
+		while (getline(sstream, word, ' ')) {
+			arrOfWords[i++] = word;
+		}
+		istringstream aStream(arrOfWords[0]);
+		istringstream bStream(arrOfWords[1]);
+		istringstream cStream(arrOfWords[2]);
+		aStream >> a; bStream >> b; cStream >> c;
+		triangles[num].setA(a);
+		triangles[num].setB(b);
+		triangles[num++].setC(c);
+	}
+	in.close();
+	return triangles;
 }
 
 void Triangle::output()
 {
-	
+	writeInFile(this->toString());
 }
-int Triangle::getA()
+string Triangle::toString()
+{
+	stringstream ss;
+	ss << (*this);
+	return ss.str();
+}
+double Triangle::getA()
 { 
 	return a;
 }
-void Triangle::setA(int a) 
+void Triangle::setA(double a) 
 {
 	this->a = a;
 }
-int Triangle::getB() 
+double Triangle::getB() 
 {
 	return b;
 }
-void Triangle::setB(int b) 
+void Triangle::setB(double b) 
 {
 	this->b = b;
 }
-int Triangle::getC() 
+double Triangle::getC() 
 {
 	return c;
 }
-void Triangle::setC(int c)
+void Triangle::setC(double c)
 {
 	this->c = c;
 }

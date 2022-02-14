@@ -3,16 +3,17 @@
 class Circle : public Shape
 {
 private:
-	int radius;
+	double radius;
 public:
 	Circle();
-	Circle(int);
+	Circle(double);
 	Circle(const Circle&);
 	virtual double area();
 	virtual double perimeter();
-	virtual void input(istream&);
+	virtual Circle* input();
 	virtual void output();
-	void setRadius(int);
+	virtual string toString();
+	void setRadius(double);
 	int getRadius();
 	friend ostream& operator<<(ostream& out, Circle& emp);
 };
