@@ -7,6 +7,7 @@ private:
 public:
 	Square();
 	Square(const Square&);
-	Square(int);
+	Square(double a);
+	friend ostream& operator<<(ostream& out, Square& sq);
 };
 

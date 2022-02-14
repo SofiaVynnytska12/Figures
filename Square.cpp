@@ -2,15 +2,18 @@
 #include "Rectangle.h"
 Square::Square()
 {
-
 }
 
-Square::Square(const Square& sq)
+Square::Square(const Square& sq) :Rectangle(sq)
 {
-	Rectangle r(sq);
 }
 
-Square::Square(int a)
+Square::Square(double a) : Rectangle(a, a) 
 {
-	Rectangle r(a, a);
+}
+
+ostream& operator<<(ostream& out, Square& sq)
+{
+	out << "Square: a = " << sq.getA() << " , parimeter = " << sq.perimeter() << " , square = " << sq.area();
+	return out;
 }
